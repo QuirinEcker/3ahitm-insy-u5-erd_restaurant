@@ -74,7 +74,7 @@
 
 ## 1. ERD in Martin/Crow’s Foot notation
 
-![](/Users/quirin/Documents/3AHITM/Informationssysteme/Uebungen/ERD05/ERD05.png)
+![](./ERD05.png)
 
 ## 2. Relations
 
